@@ -99,7 +99,13 @@ DIFFICULTY_TO_ROUND = {"Easy": 1, "Medium": 2, "Hard": 3}
 PEOPLE_PER_ROUND = 3
 TOTAL_ROUNDS = 3
 
-DATA_FILE = Path(__file__).parent / "personalities_v1.json"
+DATA_DIR = Path(__file__).parent
+DATA_CANDIDATES = sorted(
+    DATA_DIR.glob("personalities*.json"),
+    key=lambda p: p.stat().st_mtime,
+    reverse=True,
+)
+DATA_FILE = DATA_CANDIDATES[0] if DATA_CANDIDATES else DATA_DIR / "personalities_v1.json"
 
 
 ROUND_RULES = {
@@ -429,11 +435,12 @@ if not DATA_FILE.exists():
 
 ALL_PEOPLE, LOAD_ERRORS = load_people_from_json()
 if LOAD_ERRORS:
-    st.error(
-        "Some entries in the JSON could not be used. Please fix birth origin / time / difficulty values."
+    st.warning(
+        f"Skipped {len(LOAD_ERRORS)} invalid entries from {DATA_FILE.name}. "
+        "Using all remaining valid personalities."
     )
-    st.code("\n".join(LOAD_ERRORS[:15]))
-    st.stop()
+    with st.expander("Show skipped rows (first 20)"):
+        st.code("\n".join(LOAD_ERRORS[:20]))
 
 for diff, label in ((1, "Easy"), (2, "Medium"), (3, "Hard")):
     count = len([p for p in ALL_PEOPLE if p.difficulty == diff])
