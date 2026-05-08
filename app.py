@@ -99,7 +99,7 @@ DIFFICULTY_TO_ROUND = {"Easy": 1, "Medium": 2, "Hard": 3}
 PEOPLE_PER_ROUND = 3
 TOTAL_ROUNDS = 3
 
-DATA_FILE = Path(__file__).parent / "personalities_batch_1.json"
+DATA_FILE = Path(__file__).parent / "personalities_v1.json"
 
 
 ROUND_RULES = {
