@@ -236,7 +236,7 @@ def build_timeline_chart(selected_year: int | None) -> go.Figure:
                 y=[0],
                 mode="markers+text",
                 marker={"size": 16, "color": "#FF9F1C"},
-                text=[f"Your guess: {year_label(selected_year)}"],
+                text=[f"Birth year guess: {year_label(selected_year)}"],
                 textposition="bottom center",
                 showlegend=False,
             )
@@ -280,7 +280,7 @@ def build_map_chart(selected_iso3: str | None) -> go.Figure:
                 lat=[selected["lat"]],
                 mode="markers+text",
                 marker={"size": 10, "color": "#E63946"},
-                text=[f"Your pick: {selected['name']}"],
+                text=[f"Birth country guess: {selected['name']}"],
                 textposition="top center",
                 showlegend=False,
             )
@@ -375,7 +375,7 @@ def submit_guess(person: Person) -> None:
 
     st.success(
         f"Scored {total_points:.1f} points. "
-        f"Time error: {year_diff} years. Country distance: {country_distance:.0f} km."
+        f"Birth year error: {year_diff} years. Birth country distance: {country_distance:.0f} km."
     )
     next_person_or_round()
 
@@ -383,7 +383,7 @@ def submit_guess(person: Person) -> None:
 def render_header() -> None:
     st.title("Itigol")
     st.caption(
-        "Pick each person's time and birth-origin country. 3 rounds x 3 people. "
+        "Guess each person's birth year and birth country. 3 rounds x 3 people. "
         "Later rounds have stricter scoring."
     )
     col_a, col_b, col_c = st.columns(3)
@@ -467,7 +467,7 @@ st.markdown(
 )
 st.info(f"Who is {current_person.name}?")
 
-st.markdown("#### 1) Timeline")
+st.markdown("#### 1) Birth year")
 st.markdown(
     """
 <div style="
@@ -488,16 +488,16 @@ default_year = (
     else 0
 )
 st.session_state.selected_year = st.select_slider(
-    "Timeline year",
+    "Birth year",
     options=year_options,
     value=default_year,
     format_func=year_label,
     label_visibility="collapsed",
     key=f"timeline_slider_{st.session_state.round}_{st.session_state.person_idx}",
 )
-st.write("Selected year:", year_label(st.session_state.selected_year))
+st.write("Your birth year guess:", year_label(st.session_state.selected_year))
 
-st.markdown("#### 2) Click a country on the map")
+st.markdown("#### 2) Birth country (click the map)")
 map_fig = build_map_chart(st.session_state.selected_country)
 map_event = st.plotly_chart(
     map_fig,
@@ -520,7 +520,7 @@ country_label = (
     if st.session_state.selected_country in COUNTRIES
     else "Not selected"
 )
-st.write("Selected country:", country_label)
+st.write("Your birth country guess:", country_label)
 
 can_submit = (
     st.session_state.selected_year is not None
@@ -532,6 +532,6 @@ if st.button("Submit Guess", type="primary", disabled=not can_submit):
 
 st.divider()
 st.caption(
-    "Scoring per person: up to 100 for time + 100 for geography. "
-    "Geography score decreases with centroid-to-centroid distance."
+    "Scoring per person: up to 100 for birth year + 100 for birth country. "
+    "Country score decreases with centroid-to-centroid distance."
 )
