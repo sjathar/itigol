@@ -102,12 +102,7 @@ TOTAL_ROUNDS = 3
 MAP_CHART_HEIGHT_PX = 920
 
 DATA_DIR = Path(__file__).parent
-DATA_CANDIDATES = sorted(
-    DATA_DIR.glob("personalities*.json"),
-    key=lambda p: p.stat().st_mtime,
-    reverse=True,
-)
-DATA_FILE = DATA_CANDIDATES[0] if DATA_CANDIDATES else DATA_DIR / "personalities_v1.json"
+DATA_FILE = DATA_DIR / "personalities_v1.json"
 
 
 ROUND_RULES = {
