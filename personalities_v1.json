@@ -4,7 +4,7 @@
         "Personality": "Albert Einstein",
         "Modern Nation-State": "Germany / USA",
         "Sphere": "Science",
-        "Time Period": "1879\u20131955",
+        "Time Period": "1879–1955",
         "Difficulty": "Easy"
     },
     {
@@ -12,7 +12,7 @@
         "Personality": "Cleopatra VII",
         "Modern Nation-State": "Egypt",
         "Sphere": "Politics",
-        "Time Period": "69\u201330 BCE",
+        "Time Period": "69–30 BCE",
         "Difficulty": "Easy"
     },
     {
@@ -20,7 +20,7 @@
         "Personality": "Leonardo da Vinci",
         "Modern Nation-State": "Italy",
         "Sphere": "Art / Science",
-        "Time Period": "1452\u20131519",
+        "Time Period": "1452–1519",
         "Difficulty": "Easy"
     },
     {
@@ -28,7 +28,7 @@
         "Personality": "Mahatma Gandhi",
         "Modern Nation-State": "India",
         "Sphere": "Activism",
-        "Time Period": "1869\u20131948",
+        "Time Period": "1869–1948",
         "Difficulty": "Easy"
     },
     {
@@ -36,7 +36,7 @@
         "Personality": "Nelson Mandela",
         "Modern Nation-State": "South Africa",
         "Sphere": "Politics",
-        "Time Period": "1918\u20132013",
+        "Time Period": "1918–2013",
         "Difficulty": "Easy"
     },
     {
@@ -44,7 +44,7 @@
         "Personality": "Marie Curie",
         "Modern Nation-State": "Poland / France",
         "Sphere": "Science",
-        "Time Period": "1867\u20131934",
+        "Time Period": "1867–1934",
         "Difficulty": "Easy"
     },
     {
@@ -52,7 +52,7 @@
         "Personality": "William Shakespeare",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Literature",
-        "Time Period": "1564\u20131616",
+        "Time Period": "1564–1616",
         "Difficulty": "Easy"
     },
     {
@@ -60,7 +60,7 @@
         "Personality": "Martin Luther King Jr.",
         "Modern Nation-State": "United States",
         "Sphere": "Activism",
-        "Time Period": "1929\u20131968",
+        "Time Period": "1929–1968",
         "Difficulty": "Easy"
     },
     {
@@ -68,7 +68,7 @@
         "Personality": "Napoleon Bonaparte",
         "Modern Nation-State": "France",
         "Sphere": "Military",
-        "Time Period": "1769\u20131821",
+        "Time Period": "1769–1821",
         "Difficulty": "Easy"
     },
     {
@@ -76,7 +76,7 @@
         "Personality": "Steve Jobs",
         "Modern Nation-State": "United States",
         "Sphere": "Technology",
-        "Time Period": "1955\u20132011",
+        "Time Period": "1955–2011",
         "Difficulty": "Easy"
     },
     {
@@ -84,7 +84,7 @@
         "Personality": "Julius Caesar",
         "Modern Nation-State": "Italy",
         "Sphere": "Politics",
-        "Time Period": "100\u201344 BCE",
+        "Time Period": "100–44 BCE",
         "Difficulty": "Easy"
     },
     {
@@ -92,7 +92,7 @@
         "Personality": "Charles Darwin",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Science",
-        "Time Period": "1809\u20131882",
+        "Time Period": "1809–1882",
         "Difficulty": "Easy"
     },
     {
@@ -100,7 +100,7 @@
         "Personality": "Gautama Buddha",
         "Modern Nation-State": "Nepal / India",
         "Sphere": "Religion",
-        "Time Period": "c. 563\u2013483 BCE",
+        "Time Period": "c. 563–483 BCE",
         "Difficulty": "Easy"
     },
     {
@@ -108,7 +108,7 @@
         "Personality": "Confucius",
         "Modern Nation-State": "China",
         "Sphere": "Philosophy",
-        "Time Period": "551\u2013479 BCE",
+        "Time Period": "551–479 BCE",
         "Difficulty": "Easy"
     },
     {
@@ -116,7 +116,7 @@
         "Personality": "Galileo Galilei",
         "Modern Nation-State": "Italy",
         "Sphere": "Science",
-        "Time Period": "1564\u20131642",
+        "Time Period": "1564–1642",
         "Difficulty": "Easy"
     },
     {
@@ -124,7 +124,7 @@
         "Personality": "Wolfgang Mozart",
         "Modern Nation-State": "Austria",
         "Sphere": "Music",
-        "Time Period": "1756\u20131791",
+        "Time Period": "1756–1791",
         "Difficulty": "Easy"
     },
     {
@@ -132,7 +132,7 @@
         "Personality": "Alexander the Great",
         "Modern Nation-State": "Greece / N. Macedonia",
         "Sphere": "Military",
-        "Time Period": "356\u2013323 BCE",
+        "Time Period": "356–323 BCE",
         "Difficulty": "Easy"
     },
     {
@@ -140,7 +140,7 @@
         "Personality": "Joan of Arc",
         "Modern Nation-State": "France",
         "Sphere": "Military",
-        "Time Period": "1412\u20131431",
+        "Time Period": "1412–1431",
         "Difficulty": "Easy"
     },
     {
@@ -148,7 +148,7 @@
         "Personality": "Nikola Tesla",
         "Modern Nation-State": "Croatia / Serbia",
         "Sphere": "Science",
-        "Time Period": "1856\u20131943",
+        "Time Period": "1856–1943",
         "Difficulty": "Easy"
     },
     {
@@ -156,7 +156,7 @@
         "Personality": "Frida Kahlo",
         "Modern Nation-State": "Mexico",
         "Sphere": "Art",
-        "Time Period": "1907\u20131954",
+        "Time Period": "1907–1954",
         "Difficulty": "Easy"
     },
     {
@@ -164,7 +164,7 @@
         "Personality": "Genghis Khan",
         "Modern Nation-State": "Mongolia",
         "Sphere": "Military",
-        "Time Period": "1162\u20131227",
+        "Time Period": "1162–1227",
         "Difficulty": "Easy"
     },
     {
@@ -172,7 +172,7 @@
         "Personality": "Socrates",
         "Modern Nation-State": "Greece",
         "Sphere": "Philosophy",
-        "Time Period": "470\u2013399 BCE",
+        "Time Period": "470–399 BCE",
         "Difficulty": "Easy"
     },
     {
@@ -180,7 +180,7 @@
         "Personality": "Abraham Lincoln",
         "Modern Nation-State": "United States",
         "Sphere": "Politics",
-        "Time Period": "1809\u20131865",
+        "Time Period": "1809–1865",
         "Difficulty": "Easy"
     },
     {
@@ -188,7 +188,7 @@
         "Personality": "Pablo Picasso",
         "Modern Nation-State": "Spain",
         "Sphere": "Art",
-        "Time Period": "1881\u20131973",
+        "Time Period": "1881–1973",
         "Difficulty": "Easy"
     },
     {
@@ -196,7 +196,7 @@
         "Personality": "Vincent van Gogh",
         "Modern Nation-State": "Netherlands",
         "Sphere": "Art",
-        "Time Period": "1853\u20131890",
+        "Time Period": "1853–1890",
         "Difficulty": "Easy"
     },
     {
@@ -204,7 +204,7 @@
         "Personality": "Stephen Hawking",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Science",
-        "Time Period": "1942\u20132018",
+        "Time Period": "1942–2018",
         "Difficulty": "Easy"
     },
     {
@@ -212,7 +212,7 @@
         "Personality": "Thomas Edison",
         "Modern Nation-State": "United States",
         "Sphere": "Technology",
-        "Time Period": "1847\u20131931",
+        "Time Period": "1847–1931",
         "Difficulty": "Easy"
     },
     {
@@ -220,7 +220,7 @@
         "Personality": "Beethoven",
         "Modern Nation-State": "Germany",
         "Sphere": "Music",
-        "Time Period": "1770\u20131827",
+        "Time Period": "1770–1827",
         "Difficulty": "Easy"
     },
     {
@@ -228,7 +228,7 @@
         "Personality": "Marilyn Monroe",
         "Modern Nation-State": "United States",
         "Sphere": "Cinema",
-        "Time Period": "1926\u20131962",
+        "Time Period": "1926–1962",
         "Difficulty": "Easy"
     },
     {
@@ -236,7 +236,7 @@
         "Personality": "Princess Diana",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Humanitarian",
-        "Time Period": "1961\u20131997",
+        "Time Period": "1961–1997",
         "Difficulty": "Easy"
     },
     {
@@ -244,7 +244,7 @@
         "Personality": "Mansa Musa",
         "Modern Nation-State": "Mali",
         "Sphere": "Politics",
-        "Time Period": "1280\u20131337",
+        "Time Period": "1280–1337",
         "Difficulty": "Medium"
     },
     {
@@ -252,7 +252,7 @@
         "Personality": "Ada Lovelace",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Technology",
-        "Time Period": "1815\u20131852",
+        "Time Period": "1815–1852",
         "Difficulty": "Medium"
     },
     {
@@ -260,7 +260,7 @@
         "Personality": "Saladin",
         "Modern Nation-State": "Iraq / Syria",
         "Sphere": "Military",
-        "Time Period": "1137\u20131193",
+        "Time Period": "1137–1193",
         "Difficulty": "Medium"
     },
     {
@@ -268,7 +268,7 @@
         "Personality": "Simon Bolivar",
         "Modern Nation-State": "Venezuela",
         "Sphere": "Politics",
-        "Time Period": "1783\u20131830",
+        "Time Period": "1783–1830",
         "Difficulty": "Medium"
     },
     {
@@ -276,7 +276,7 @@
         "Personality": "Alan Turing",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Science",
-        "Time Period": "1912\u20131954",
+        "Time Period": "1912–1954",
         "Difficulty": "Medium"
     },
     {
@@ -284,7 +284,7 @@
         "Personality": "Marco Polo",
         "Modern Nation-State": "Italy",
         "Sphere": "Exploration",
-        "Time Period": "1254\u20131324",
+        "Time Period": "1254–1324",
         "Difficulty": "Medium"
     },
     {
@@ -292,7 +292,7 @@
         "Personality": "Catherine the Great",
         "Modern Nation-State": "Russia",
         "Sphere": "Politics",
-        "Time Period": "1729\u20131796",
+        "Time Period": "1729–1796",
         "Difficulty": "Medium"
     },
     {
@@ -300,7 +300,7 @@
         "Personality": "Florence Nightingale",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Medicine",
-        "Time Period": "1820\u20131910",
+        "Time Period": "1820–1910",
         "Difficulty": "Medium"
     },
     {
@@ -308,7 +308,7 @@
         "Personality": "Sun Yat-sen",
         "Modern Nation-State": "China",
         "Sphere": "Politics",
-        "Time Period": "1866\u20131925",
+        "Time Period": "1866–1925",
         "Difficulty": "Medium"
     },
     {
@@ -316,7 +316,7 @@
         "Personality": "Rumi",
         "Modern Nation-State": "Afghanistan / Turkey",
         "Sphere": "Poetry",
-        "Time Period": "1207\u20131273",
+        "Time Period": "1207–1273",
         "Difficulty": "Medium"
     },
     {
@@ -324,7 +324,7 @@
         "Personality": "Mary Wollstonecraft",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Philosophy",
-        "Time Period": "1759\u20131797",
+        "Time Period": "1759–1797",
         "Difficulty": "Medium"
     },
     {
@@ -332,7 +332,7 @@
         "Personality": "Hannibal Barca",
         "Modern Nation-State": "Tunisia",
         "Sphere": "Military",
-        "Time Period": "247\u2013181 BCE",
+        "Time Period": "247–181 BCE",
         "Difficulty": "Medium"
     },
     {
@@ -340,7 +340,7 @@
         "Personality": "Empress Wu Zetian",
         "Modern Nation-State": "China",
         "Sphere": "Politics",
-        "Time Period": "624\u2013705 CE",
+        "Time Period": "624–705 CE",
         "Difficulty": "Medium"
     },
     {
@@ -348,7 +348,7 @@
         "Personality": "Akbar the Great",
         "Modern Nation-State": "India",
         "Sphere": "Politics",
-        "Time Period": "1542\u20131605",
+        "Time Period": "1542–1605",
         "Difficulty": "Medium"
     },
     {
@@ -356,7 +356,7 @@
         "Personality": "Srinivasa Ramanujan",
         "Modern Nation-State": "India",
         "Sphere": "Math",
-        "Time Period": "1887\u20131920",
+        "Time Period": "1887–1920",
         "Difficulty": "Medium"
     },
     {
@@ -364,7 +364,7 @@
         "Personality": "Hedy Lamarr",
         "Modern Nation-State": "Austria / USA",
         "Sphere": "Technology",
-        "Time Period": "1914\u20132000",
+        "Time Period": "1914–2000",
         "Difficulty": "Medium"
     },
     {
@@ -372,7 +372,7 @@
         "Personality": "Zheng He",
         "Modern Nation-State": "China",
         "Sphere": "Exploration",
-        "Time Period": "1371\u20131433",
+        "Time Period": "1371–1433",
         "Difficulty": "Medium"
     },
     {
@@ -380,7 +380,7 @@
         "Personality": "Harriet Tubman",
         "Modern Nation-State": "United States",
         "Sphere": "Activism",
-        "Time Period": "1822\u20131913",
+        "Time Period": "1822–1913",
         "Difficulty": "Medium"
     },
     {
@@ -388,7 +388,7 @@
         "Personality": "Hypatia",
         "Modern Nation-State": "Egypt",
         "Sphere": "Math",
-        "Time Period": "350\u2013415 CE",
+        "Time Period": "350–415 CE",
         "Difficulty": "Medium"
     },
     {
@@ -396,7 +396,7 @@
         "Personality": "Louis Pasteur",
         "Modern Nation-State": "France",
         "Sphere": "Science",
-        "Time Period": "1822\u20131895",
+        "Time Period": "1822–1895",
         "Difficulty": "Medium"
     },
     {
@@ -404,7 +404,7 @@
         "Personality": "Sigmund Freud",
         "Modern Nation-State": "Austria",
         "Sphere": "Science",
-        "Time Period": "1856\u20131939",
+        "Time Period": "1856–1939",
         "Difficulty": "Medium"
     },
     {
@@ -412,7 +412,7 @@
         "Personality": "Boudica",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Military",
-        "Time Period": "30\u201361 CE",
+        "Time Period": "30–61 CE",
         "Difficulty": "Medium"
     },
     {
@@ -420,7 +420,7 @@
         "Personality": "Che Guevara",
         "Modern Nation-State": "Argentina",
         "Sphere": "Activism",
-        "Time Period": "1928\u20131967",
+        "Time Period": "1928–1967",
         "Difficulty": "Medium"
     },
     {
@@ -428,7 +428,7 @@
         "Personality": "Sojourner Truth",
         "Modern Nation-State": "United States",
         "Sphere": "Activism",
-        "Time Period": "1797\u20131883",
+        "Time Period": "1797–1883",
         "Difficulty": "Medium"
     },
     {
@@ -436,7 +436,7 @@
         "Personality": "Frederick Douglass",
         "Modern Nation-State": "United States",
         "Sphere": "Activism",
-        "Time Period": "1818\u20131895",
+        "Time Period": "1818–1895",
         "Difficulty": "Medium"
     },
     {
@@ -444,7 +444,7 @@
         "Personality": "Oscar Wilde",
         "Modern Nation-State": "Ireland",
         "Sphere": "Literature",
-        "Time Period": "1854\u20131900",
+        "Time Period": "1854–1900",
         "Difficulty": "Medium"
     },
     {
@@ -452,7 +452,7 @@
         "Personality": "Tchaikovsky",
         "Modern Nation-State": "Russia",
         "Sphere": "Music",
-        "Time Period": "1840\u20131893",
+        "Time Period": "1840–1893",
         "Difficulty": "Medium"
     },
     {
@@ -460,7 +460,7 @@
         "Personality": "Dante Alighieri",
         "Modern Nation-State": "Italy",
         "Sphere": "Literature",
-        "Time Period": "1265\u20131321",
+        "Time Period": "1265–1321",
         "Difficulty": "Medium"
     },
     {
@@ -468,7 +468,7 @@
         "Personality": "John Locke",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Philosophy",
-        "Time Period": "1632\u20131704",
+        "Time Period": "1632–1704",
         "Difficulty": "Medium"
     },
     {
@@ -476,7 +476,7 @@
         "Personality": "Indira Gandhi",
         "Modern Nation-State": "India",
         "Sphere": "Politics",
-        "Time Period": "1917\u20131984",
+        "Time Period": "1917–1984",
         "Difficulty": "Medium"
     },
     {
@@ -484,7 +484,7 @@
         "Personality": "Al-Khwarizmi",
         "Modern Nation-State": "Uzbekistan",
         "Sphere": "Math",
-        "Time Period": "780\u2013850 CE",
+        "Time Period": "780–850 CE",
         "Difficulty": "Hard"
     },
     {
@@ -500,7 +500,7 @@
         "Personality": "Toussaint Louverture",
         "Modern Nation-State": "Haiti",
         "Sphere": "Military",
-        "Time Period": "1743\u20131803",
+        "Time Period": "1743–1803",
         "Difficulty": "Hard"
     },
     {
@@ -508,7 +508,7 @@
         "Personality": "Sejong the Great",
         "Modern Nation-State": "South Korea",
         "Sphere": "Politics",
-        "Time Period": "1397\u20131450",
+        "Time Period": "1397–1450",
         "Difficulty": "Hard"
     },
     {
@@ -516,7 +516,7 @@
         "Personality": "Ibn Battuta",
         "Modern Nation-State": "Morocco",
         "Sphere": "Exploration",
-        "Time Period": "1304\u20131368",
+        "Time Period": "1304–1368",
         "Difficulty": "Hard"
     },
     {
@@ -524,7 +524,7 @@
         "Personality": "Aryabhata",
         "Modern Nation-State": "India",
         "Sphere": "Math/Science",
-        "Time Period": "476\u2013550 CE",
+        "Time Period": "476–550 CE",
         "Difficulty": "Hard"
     },
     {
@@ -532,7 +532,7 @@
         "Personality": "Rosalind Franklin",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Science",
-        "Time Period": "1920\u20131958",
+        "Time Period": "1920–1958",
         "Difficulty": "Hard"
     },
     {
@@ -540,7 +540,7 @@
         "Personality": "Lady Murasaki",
         "Modern Nation-State": "Japan",
         "Sphere": "Literature",
-        "Time Period": "973\u20131014 CE",
+        "Time Period": "973–1014 CE",
         "Difficulty": "Hard"
     },
     {
@@ -548,7 +548,7 @@
         "Personality": "Cyrus the Great",
         "Modern Nation-State": "Iran",
         "Sphere": "Politics",
-        "Time Period": "600\u2013530 BCE",
+        "Time Period": "600–530 BCE",
         "Difficulty": "Hard"
     },
     {
@@ -556,7 +556,7 @@
         "Personality": "Mirabai",
         "Modern Nation-State": "India",
         "Sphere": "Literature",
-        "Time Period": "1498\u20131547",
+        "Time Period": "1498–1547",
         "Difficulty": "Hard"
     },
     {
@@ -564,7 +564,7 @@
         "Personality": "Lal Ded",
         "Modern Nation-State": "India",
         "Sphere": "Philosophy",
-        "Time Period": "1320\u20131392",
+        "Time Period": "1320–1392",
         "Difficulty": "Hard"
     },
     {
@@ -572,7 +572,7 @@
         "Personality": "Satyendra Nath Bose",
         "Modern Nation-State": "India",
         "Sphere": "Science",
-        "Time Period": "1894\u20131974",
+        "Time Period": "1894–1974",
         "Difficulty": "Hard"
     },
     {
@@ -580,7 +580,7 @@
         "Personality": "Wangari Maathai",
         "Modern Nation-State": "Kenya",
         "Sphere": "Activism",
-        "Time Period": "1940\u20132011",
+        "Time Period": "1940–2011",
         "Difficulty": "Hard"
     },
     {
@@ -588,7 +588,7 @@
         "Personality": "Ibn Sina (Avicenna)",
         "Modern Nation-State": "Uzbekistan",
         "Sphere": "Medicine",
-        "Time Period": "980\u20131037 CE",
+        "Time Period": "980–1037 CE",
         "Difficulty": "Hard"
     },
     {
@@ -596,7 +596,7 @@
         "Personality": "Toyotomi Hideyoshi",
         "Modern Nation-State": "Japan",
         "Sphere": "Military",
-        "Time Period": "1537\u20131598",
+        "Time Period": "1537–1598",
         "Difficulty": "Hard"
     },
     {
@@ -604,7 +604,7 @@
         "Personality": "Lakshmibai",
         "Modern Nation-State": "India",
         "Sphere": "Military",
-        "Time Period": "1828\u20131858",
+        "Time Period": "1828–1858",
         "Difficulty": "Hard"
     },
     {
@@ -612,7 +612,7 @@
         "Personality": "Blaise Pascal",
         "Modern Nation-State": "France",
         "Sphere": "Math",
-        "Time Period": "1623\u20131662",
+        "Time Period": "1623–1662",
         "Difficulty": "Hard"
     },
     {
@@ -620,7 +620,7 @@
         "Personality": "Shaka Zulu",
         "Modern Nation-State": "South Africa",
         "Sphere": "Military",
-        "Time Period": "1787\u20131828",
+        "Time Period": "1787–1828",
         "Difficulty": "Hard"
     },
     {
@@ -628,7 +628,7 @@
         "Personality": "Thutmose III",
         "Modern Nation-State": "Egypt",
         "Sphere": "Politics",
-        "Time Period": "1481\u20131425 BCE",
+        "Time Period": "1481–1425 BCE",
         "Difficulty": "Hard"
     },
     {
@@ -636,7 +636,7 @@
         "Personality": "Hypatia of Alexandria",
         "Modern Nation-State": "Egypt",
         "Sphere": "Philosophy",
-        "Time Period": "350\u2013415 CE",
+        "Time Period": "350–415 CE",
         "Difficulty": "Hard"
     },
     {
@@ -644,15 +644,15 @@
         "Personality": "Grigori Rasputin",
         "Modern Nation-State": "Russia",
         "Sphere": "Religion",
-        "Time Period": "1869\u20131916",
+        "Time Period": "1869–1916",
         "Difficulty": "Hard"
     },
     {
         "#": 82,
-        "Personality": "Atat\u00fcrk",
+        "Personality": "Atatürk",
         "Modern Nation-State": "Turkey",
         "Sphere": "Politics",
-        "Time Period": "1881\u20131938",
+        "Time Period": "1881–1938",
         "Difficulty": "Hard"
     },
     {
@@ -660,15 +660,15 @@
         "Personality": "Maimonides",
         "Modern Nation-State": "Spain / Egypt",
         "Sphere": "Philosophy",
-        "Time Period": "1138\u20131204",
+        "Time Period": "1138–1204",
         "Difficulty": "Hard"
     },
     {
         "#": 84,
-        "Personality": "\u00d6zlem T\u00fcreci",
+        "Personality": "Özlem Türeci",
         "Modern Nation-State": "Germany",
         "Sphere": "Science",
-        "Time Period": "1967\u2013Present",
+        "Time Period": "1967–Present",
         "Difficulty": "Hard"
     },
     {
@@ -676,7 +676,7 @@
         "Personality": "Yaa Asantewaa",
         "Modern Nation-State": "Ghana",
         "Sphere": "Military",
-        "Time Period": "1840\u20131921",
+        "Time Period": "1840–1921",
         "Difficulty": "Hard"
     },
     {
@@ -684,7 +684,7 @@
         "Personality": "Rabindranath Tagore",
         "Modern Nation-State": "India",
         "Sphere": "Literature",
-        "Time Period": "1861\u20131941",
+        "Time Period": "1861–1941",
         "Difficulty": "Hard"
     },
     {
@@ -692,7 +692,7 @@
         "Personality": "Meiji Emperor",
         "Modern Nation-State": "Japan",
         "Sphere": "Politics",
-        "Time Period": "1852\u20131912",
+        "Time Period": "1852–1912",
         "Difficulty": "Hard"
     },
     {
@@ -700,7 +700,7 @@
         "Personality": "Lise Meitner",
         "Modern Nation-State": "Austria / Sweden",
         "Sphere": "Science",
-        "Time Period": "1878\u20131968",
+        "Time Period": "1878–1968",
         "Difficulty": "Hard"
     },
     {
@@ -708,15 +708,15 @@
         "Personality": "Ibn Khaldun",
         "Modern Nation-State": "Tunisia",
         "Sphere": "Philosophy",
-        "Time Period": "1332\u20131406",
+        "Time Period": "1332–1406",
         "Difficulty": "Hard"
     },
     {
         "#": 90,
-        "Personality": "Sor Juana In\u00e9s",
+        "Personality": "Sor Juana Inés",
         "Modern Nation-State": "Mexico",
         "Sphere": "Literature",
-        "Time Period": "1651\u20131695",
+        "Time Period": "1651–1695",
         "Difficulty": "Hard"
     },
     {
@@ -724,15 +724,15 @@
         "Personality": "Haile Selassie",
         "Modern Nation-State": "Ethiopia",
         "Sphere": "Politics",
-        "Time Period": "1892\u20131975",
+        "Time Period": "1892–1975",
         "Difficulty": "Hard"
     },
     {
         "#": 92,
-        "Personality": "Sim\u00f3n Rodr\u00edguez",
+        "Personality": "Simón Rodríguez",
         "Modern Nation-State": "Venezuela",
         "Sphere": "Philosophy",
-        "Time Period": "1769\u20131854",
+        "Time Period": "1769–1854",
         "Difficulty": "Hard"
     },
     {
@@ -740,7 +740,7 @@
         "Personality": "Barbara McClintock",
         "Modern Nation-State": "United States",
         "Sphere": "Science",
-        "Time Period": "1902\u20131992",
+        "Time Period": "1902–1992",
         "Difficulty": "Hard"
     },
     {
@@ -748,7 +748,7 @@
         "Personality": "Hokusai",
         "Modern Nation-State": "Japan",
         "Sphere": "Art",
-        "Time Period": "1760\u20131849",
+        "Time Period": "1760–1849",
         "Difficulty": "Hard"
     },
     {
@@ -756,7 +756,7 @@
         "Personality": "Amrita Sher-Gil",
         "Modern Nation-State": "Hungary / India",
         "Sphere": "Art",
-        "Time Period": "1913\u20131941",
+        "Time Period": "1913–1941",
         "Difficulty": "Hard"
     },
     {
@@ -764,7 +764,7 @@
         "Personality": "Emmeline Pankhurst",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Activism",
-        "Time Period": "1858\u20131928",
+        "Time Period": "1858–1928",
         "Difficulty": "Hard"
     },
     {
@@ -780,7 +780,7 @@
         "Personality": "Thomas Aquinas",
         "Modern Nation-State": "Italy",
         "Sphere": "Philosophy",
-        "Time Period": "1225\u20131274",
+        "Time Period": "1225–1274",
         "Difficulty": "Hard"
     },
     {
@@ -788,7 +788,7 @@
         "Personality": "Chanakya",
         "Modern Nation-State": "India",
         "Sphere": "Politics",
-        "Time Period": "350\u2013283 BCE",
+        "Time Period": "350–283 BCE",
         "Difficulty": "Hard"
     },
     {
@@ -796,7 +796,7 @@
         "Personality": "B.R. Ambedkar",
         "Modern Nation-State": "India",
         "Sphere": "Politics",
-        "Time Period": "1891\u20131956",
+        "Time Period": "1891–1956",
         "Difficulty": "Hard"
     },
     {
@@ -812,7 +812,7 @@
         "Personality": "Hesiod",
         "Modern Nation-State": "Greece",
         "Sphere": "Literature",
-        "Time Period": "c. 750\u2013650 BCE",
+        "Time Period": "c. 750–650 BCE",
         "Difficulty": "Medium"
     },
     {
@@ -820,7 +820,7 @@
         "Personality": "Sennacherib",
         "Modern Nation-State": "Iraq",
         "Sphere": "Politics",
-        "Time Period": "705\u2013681 BCE",
+        "Time Period": "705–681 BCE",
         "Difficulty": "Hard"
     },
     {
@@ -828,7 +828,7 @@
         "Personality": "Sappho",
         "Modern Nation-State": "Greece",
         "Sphere": "Literature",
-        "Time Period": "c. 630\u2013570 BCE",
+        "Time Period": "c. 630–570 BCE",
         "Difficulty": "Medium"
     },
     {
@@ -836,7 +836,7 @@
         "Personality": "Thales of Miletus",
         "Modern Nation-State": "Turkey",
         "Sphere": "Science",
-        "Time Period": "c. 624\u2013546 BCE",
+        "Time Period": "c. 624–546 BCE",
         "Difficulty": "Hard"
     },
     {
@@ -844,7 +844,7 @@
         "Personality": "Pythagoras",
         "Modern Nation-State": "Greece",
         "Sphere": "Math",
-        "Time Period": "c. 570\u2013495 BCE",
+        "Time Period": "c. 570–495 BCE",
         "Difficulty": "Easy"
     },
     {
@@ -852,7 +852,7 @@
         "Personality": "Sun Tzu",
         "Modern Nation-State": "China",
         "Sphere": "Military",
-        "Time Period": "544\u2013496 BCE",
+        "Time Period": "544–496 BCE",
         "Difficulty": "Easy"
     },
     {
@@ -860,7 +860,7 @@
         "Personality": "Herodotus",
         "Modern Nation-State": "Turkey / Greece",
         "Sphere": "Literature",
-        "Time Period": "c. 484\u2013425 BCE",
+        "Time Period": "c. 484–425 BCE",
         "Difficulty": "Medium"
     },
     {
@@ -868,7 +868,7 @@
         "Personality": "Hippocrates",
         "Modern Nation-State": "Greece",
         "Sphere": "Medicine",
-        "Time Period": "c. 460\u2013370 BCE",
+        "Time Period": "c. 460–370 BCE",
         "Difficulty": "Medium"
     },
     {
@@ -876,7 +876,7 @@
         "Personality": "Aristotle",
         "Modern Nation-State": "Greece",
         "Sphere": "Philosophy",
-        "Time Period": "384\u2013322 BCE",
+        "Time Period": "384–322 BCE",
         "Difficulty": "Easy"
     },
     {
@@ -888,19 +888,11 @@
         "Difficulty": "Medium"
     },
     {
-        "#": 212,
-        "Personality": "Archimedes",
-        "Modern Nation-State": "Italy (Sicily)",
-        "Sphere": "Science",
-        "Time Period": "c. 287\u2013212 BCE",
-        "Difficulty": "Medium"
-    },
-    {
         "#": 213,
         "Personality": "Han Fei",
         "Modern Nation-State": "China",
         "Sphere": "Philosophy",
-        "Time Period": "c. 280\u2013233 BCE",
+        "Time Period": "c. 280–233 BCE",
         "Difficulty": "Hard"
     },
     {
@@ -908,7 +900,7 @@
         "Personality": "Scipio Africanus",
         "Modern Nation-State": "Italy / Tunisia",
         "Sphere": "Military",
-        "Time Period": "236\u2013183 BCE",
+        "Time Period": "236–183 BCE",
         "Difficulty": "Medium"
     },
     {
@@ -916,7 +908,7 @@
         "Personality": "Polybius",
         "Modern Nation-State": "Greece",
         "Sphere": "Literature",
-        "Time Period": "c. 200\u2013118 BCE",
+        "Time Period": "c. 200–118 BCE",
         "Difficulty": "Hard"
     },
     {
@@ -924,7 +916,7 @@
         "Personality": "Cicero",
         "Modern Nation-State": "Italy",
         "Sphere": "Politics",
-        "Time Period": "106\u201343 BCE",
+        "Time Period": "106–43 BCE",
         "Difficulty": "Medium"
     },
     {
@@ -932,7 +924,7 @@
         "Personality": "Virgil",
         "Modern Nation-State": "Italy",
         "Sphere": "Literature",
-        "Time Period": "70\u201319 BCE",
+        "Time Period": "70–19 BCE",
         "Difficulty": "Medium"
     },
     {
@@ -940,7 +932,7 @@
         "Personality": "Hillel the Elder",
         "Modern Nation-State": "Israel / Palestine",
         "Sphere": "Religion",
-        "Time Period": "c. 110 BCE \u2013 10 CE",
+        "Time Period": "c. 110 BCE – 10 CE",
         "Difficulty": "Hard"
     },
     {
@@ -948,7 +940,7 @@
         "Personality": "Seneca the Younger",
         "Modern Nation-State": "Spain / Italy",
         "Sphere": "Philosophy",
-        "Time Period": "4 BCE \u2013 65 CE",
+        "Time Period": "4 BCE – 65 CE",
         "Difficulty": "Medium"
     },
     {
@@ -956,7 +948,7 @@
         "Personality": "Pliny the Elder",
         "Modern Nation-State": "Italy",
         "Sphere": "Science",
-        "Time Period": "23\u201379 CE",
+        "Time Period": "23–79 CE",
         "Difficulty": "Hard"
     },
     {
@@ -964,7 +956,7 @@
         "Personality": "Ban Zhao",
         "Modern Nation-State": "China",
         "Sphere": "Literature",
-        "Time Period": "45\u2013116 CE",
+        "Time Period": "45–116 CE",
         "Difficulty": "Hard"
     },
     {
@@ -972,7 +964,7 @@
         "Personality": "Ptolemy",
         "Modern Nation-State": "Egypt",
         "Sphere": "Science",
-        "Time Period": "c. 100\u2013170 CE",
+        "Time Period": "c. 100–170 CE",
         "Difficulty": "Medium"
     },
     {
@@ -980,7 +972,7 @@
         "Personality": "Galen",
         "Modern Nation-State": "Turkey / Italy",
         "Sphere": "Medicine",
-        "Time Period": "129\u2013216 CE",
+        "Time Period": "129–216 CE",
         "Difficulty": "Hard"
     },
     {
@@ -988,7 +980,7 @@
         "Personality": "Nagarjuna",
         "Modern Nation-State": "India",
         "Sphere": "Philosophy",
-        "Time Period": "c. 150\u2013250 CE",
+        "Time Period": "c. 150–250 CE",
         "Difficulty": "Hard"
     },
     {
@@ -996,23 +988,15 @@
         "Personality": "Plotinus",
         "Modern Nation-State": "Egypt / Italy",
         "Sphere": "Philosophy",
-        "Time Period": "c. 204\u2013270 CE",
+        "Time Period": "c. 204–270 CE",
         "Difficulty": "Hard"
-    },
-    {
-        "#": 226,
-        "Personality": "Saint Augustine",
-        "Modern Nation-State": "Algeria",
-        "Sphere": "Philosophy",
-        "Time Period": "354\u2013430 CE",
-        "Difficulty": "Medium"
     },
     {
         "#": 227,
         "Personality": "Kalidasa",
         "Modern Nation-State": "India",
         "Sphere": "Literature",
-        "Time Period": "c. 4th\u20135th C. CE",
+        "Time Period": "c. 4th–5th C. CE",
         "Difficulty": "Hard"
     },
     {
@@ -1020,7 +1004,7 @@
         "Personality": "Attila the Hun",
         "Modern Nation-State": "Hungary",
         "Sphere": "Military",
-        "Time Period": "c. 406\u2013453 CE",
+        "Time Period": "c. 406–453 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1028,7 +1012,7 @@
         "Personality": "Clovis I",
         "Modern Nation-State": "France",
         "Sphere": "Politics",
-        "Time Period": "c. 466\u2013511 CE",
+        "Time Period": "c. 466–511 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1036,7 +1020,7 @@
         "Personality": "Justinian I",
         "Modern Nation-State": "Turkey / Italy",
         "Sphere": "Politics",
-        "Time Period": "482\u2013565 CE",
+        "Time Period": "482–565 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1044,7 +1028,7 @@
         "Personality": "Khosrow I",
         "Modern Nation-State": "Iran",
         "Sphere": "Politics",
-        "Time Period": "501\u2013579 CE",
+        "Time Period": "501–579 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1052,7 +1036,7 @@
         "Personality": "Pope Gregory I",
         "Modern Nation-State": "Italy",
         "Sphere": "Religion",
-        "Time Period": "c. 540\u2013604 CE",
+        "Time Period": "c. 540–604 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1060,7 +1044,7 @@
         "Personality": "Li Bai",
         "Modern Nation-State": "China",
         "Sphere": "Literature",
-        "Time Period": "701\u2013762 CE",
+        "Time Period": "701–762 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1068,7 +1052,7 @@
         "Personality": "Adi Shankara",
         "Modern Nation-State": "India",
         "Sphere": "Philosophy",
-        "Time Period": "c. 788\u2013820 CE",
+        "Time Period": "c. 788–820 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1076,7 +1060,7 @@
         "Personality": "Alfred the Great",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Politics",
-        "Time Period": "849\u2013899 CE",
+        "Time Period": "849–899 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1084,7 +1068,7 @@
         "Personality": "Harun al-Rashid",
         "Modern Nation-State": "Iraq",
         "Sphere": "Politics",
-        "Time Period": "763\u2013809 CE",
+        "Time Period": "763–809 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1092,23 +1076,15 @@
         "Personality": "Murakami",
         "Modern Nation-State": "Japan",
         "Sphere": "Politics",
-        "Time Period": "926\u2013967 CE",
+        "Time Period": "926–967 CE",
         "Difficulty": "Hard"
-    },
-    {
-        "#": 238,
-        "Personality": "Leif Erikson",
-        "Modern Nation-State": "Iceland / Canada",
-        "Sphere": "Exploration",
-        "Time Period": "c. 970\u20131020 CE",
-        "Difficulty": "Medium"
     },
     {
         "#": 239,
         "Personality": "El Cid",
         "Modern Nation-State": "Spain",
         "Sphere": "Military",
-        "Time Period": "c. 1043\u20131099 CE",
+        "Time Period": "c. 1043–1099 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1116,7 +1092,7 @@
         "Personality": "Hildegard of Bingen",
         "Modern Nation-State": "Germany",
         "Sphere": "Science / Music",
-        "Time Period": "1098\u20131179 CE",
+        "Time Period": "1098–1179 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1124,7 +1100,7 @@
         "Personality": "Eleanor of Aquitaine",
         "Modern Nation-State": "France / UK",
         "Sphere": "Politics",
-        "Time Period": "1122\u20131204 CE",
+        "Time Period": "1122–1204 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1132,7 +1108,7 @@
         "Personality": "Francis of Assisi",
         "Modern Nation-State": "Italy",
         "Sphere": "Religion",
-        "Time Period": "1181\u20131226 CE",
+        "Time Period": "1181–1226 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1140,7 +1116,7 @@
         "Personality": "Kublai Khan",
         "Modern Nation-State": "China / Mongolia",
         "Sphere": "Politics",
-        "Time Period": "1215\u20131294 CE",
+        "Time Period": "1215–1294 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1148,7 +1124,7 @@
         "Personality": "Osman I",
         "Modern Nation-State": "Turkey",
         "Sphere": "Politics",
-        "Time Period": "c. 1258\u20131326 CE",
+        "Time Period": "c. 1258–1326 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1156,7 +1132,7 @@
         "Personality": "Petrarch",
         "Modern Nation-State": "Italy",
         "Sphere": "Literature",
-        "Time Period": "1304\u20131374",
+        "Time Period": "1304–1374",
         "Difficulty": "Hard"
     },
     {
@@ -1164,7 +1140,7 @@
         "Personality": "Geoffrey Chaucer",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Literature",
-        "Time Period": "1343\u20131400",
+        "Time Period": "1343–1400",
         "Difficulty": "Medium"
     },
     {
@@ -1172,7 +1148,7 @@
         "Personality": "Christine de Pizan",
         "Modern Nation-State": "Italy / France",
         "Sphere": "Literature",
-        "Time Period": "1364\u20131430",
+        "Time Period": "1364–1430",
         "Difficulty": "Hard"
     },
     {
@@ -1180,7 +1156,7 @@
         "Personality": "Jan van Eyck",
         "Modern Nation-State": "Belgium",
         "Sphere": "Art",
-        "Time Period": "c. 1390\u20131441",
+        "Time Period": "c. 1390–1441",
         "Difficulty": "Medium"
     },
     {
@@ -1188,7 +1164,7 @@
         "Personality": "Lorenzo de' Medici",
         "Modern Nation-State": "Italy",
         "Sphere": "Politics",
-        "Time Period": "1449\u20131492",
+        "Time Period": "1449–1492",
         "Difficulty": "Medium"
     },
     {
@@ -1196,15 +1172,15 @@
         "Personality": "Erasmus",
         "Modern Nation-State": "Netherlands",
         "Sphere": "Philosophy",
-        "Time Period": "1466\u20131536",
+        "Time Period": "1466–1536",
         "Difficulty": "Hard"
     },
     {
         "#": 251,
-        "Personality": "Niccol\u00f2 Machiavelli",
+        "Personality": "Niccolò Machiavelli",
         "Modern Nation-State": "Italy",
         "Sphere": "Philosophy",
-        "Time Period": "1469\u20131527",
+        "Time Period": "1469–1527",
         "Difficulty": "Medium"
     },
     {
@@ -1212,15 +1188,15 @@
         "Personality": "Nicolaus Copernicus",
         "Modern Nation-State": "Poland",
         "Sphere": "Science",
-        "Time Period": "1473\u20131543",
+        "Time Period": "1473–1543",
         "Difficulty": "Medium"
     },
     {
         "#": 253,
-        "Personality": "Hern\u00e1n Cort\u00e9s",
+        "Personality": "Hernán Cortés",
         "Modern Nation-State": "Spain / Mexico",
         "Sphere": "Military",
-        "Time Period": "1485\u20131547",
+        "Time Period": "1485–1547",
         "Difficulty": "Medium"
     },
     {
@@ -1228,7 +1204,7 @@
         "Personality": "Ignatius of Loyola",
         "Modern Nation-State": "Spain",
         "Sphere": "Religion",
-        "Time Period": "1491\u20131556",
+        "Time Period": "1491–1556",
         "Difficulty": "Hard"
     },
     {
@@ -1236,7 +1212,7 @@
         "Personality": "Andreas Vesalius",
         "Modern Nation-State": "Belgium / Italy",
         "Sphere": "Medicine",
-        "Time Period": "1514\u20131564",
+        "Time Period": "1514–1564",
         "Difficulty": "Hard"
     },
     {
@@ -1244,7 +1220,7 @@
         "Personality": "Elizabeth I",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Politics",
-        "Time Period": "1533\u20131603",
+        "Time Period": "1533–1603",
         "Difficulty": "Easy"
     },
     {
@@ -1252,7 +1228,7 @@
         "Personality": "Francis Bacon",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Philosophy",
-        "Time Period": "1561\u20131626",
+        "Time Period": "1561–1626",
         "Difficulty": "Medium"
     },
     {
@@ -1260,7 +1236,7 @@
         "Personality": "Johannes Kepler",
         "Modern Nation-State": "Germany",
         "Sphere": "Science",
-        "Time Period": "1571\u20131630",
+        "Time Period": "1571–1630",
         "Difficulty": "Medium"
     },
     {
@@ -1268,15 +1244,15 @@
         "Personality": "Thomas Hobbes",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Philosophy",
-        "Time Period": "1588\u20131679",
+        "Time Period": "1588–1679",
         "Difficulty": "Medium"
     },
     {
         "#": 260,
-        "Personality": "Ren\u00e9 Descartes",
+        "Personality": "René Descartes",
         "Modern Nation-State": "France",
         "Sphere": "Philosophy",
-        "Time Period": "1596\u20131650",
+        "Time Period": "1596–1650",
         "Difficulty": "Medium"
     },
     {
@@ -1284,15 +1260,15 @@
         "Personality": "Rembrandt",
         "Modern Nation-State": "Netherlands",
         "Sphere": "Art",
-        "Time Period": "1606\u20131669",
+        "Time Period": "1606–1669",
         "Difficulty": "Easy"
     },
     {
         "#": 262,
-        "Personality": "Moli\u00e8re",
+        "Personality": "Molière",
         "Modern Nation-State": "France",
         "Sphere": "Literature",
-        "Time Period": "1622\u20131673",
+        "Time Period": "1622–1673",
         "Difficulty": "Medium"
     },
     {
@@ -1300,7 +1276,7 @@
         "Personality": "Baruch Spinoza",
         "Modern Nation-State": "Netherlands",
         "Sphere": "Philosophy",
-        "Time Period": "1632\u20131677",
+        "Time Period": "1632–1677",
         "Difficulty": "Hard"
     },
     {
@@ -1308,7 +1284,7 @@
         "Personality": "Antonie van Leeuwenhoek",
         "Modern Nation-State": "Netherlands",
         "Sphere": "Science",
-        "Time Period": "1632\u20131723",
+        "Time Period": "1632–1723",
         "Difficulty": "Medium"
     },
     {
@@ -1316,7 +1292,7 @@
         "Personality": "Louis XIV",
         "Modern Nation-State": "France",
         "Sphere": "Politics",
-        "Time Period": "1638\u20131715",
+        "Time Period": "1638–1715",
         "Difficulty": "Medium"
     },
     {
@@ -1324,7 +1300,7 @@
         "Personality": "Gottfried Wilhelm Leibniz",
         "Modern Nation-State": "Germany",
         "Sphere": "Math",
-        "Time Period": "1646\u20131716",
+        "Time Period": "1646–1716",
         "Difficulty": "Hard"
     },
     {
@@ -1332,7 +1308,7 @@
         "Personality": "Peter the Great",
         "Modern Nation-State": "Russia",
         "Sphere": "Politics",
-        "Time Period": "1672\u20131725",
+        "Time Period": "1672–1725",
         "Difficulty": "Medium"
     },
     {
@@ -1340,7 +1316,7 @@
         "Personality": "Johann Sebastian Bach",
         "Modern Nation-State": "Germany",
         "Sphere": "Music",
-        "Time Period": "1685\u20131750",
+        "Time Period": "1685–1750",
         "Difficulty": "Easy"
     },
     {
@@ -1348,7 +1324,7 @@
         "Personality": "Voltaire",
         "Modern Nation-State": "France",
         "Sphere": "Literature",
-        "Time Period": "1694\u20131778",
+        "Time Period": "1694–1778",
         "Difficulty": "Medium"
     },
     {
@@ -1356,7 +1332,7 @@
         "Personality": "Benjamin Franklin",
         "Modern Nation-State": "United States",
         "Sphere": "Science / Politics",
-        "Time Period": "1706\u20131790",
+        "Time Period": "1706–1790",
         "Difficulty": "Easy"
     },
     {
@@ -1364,7 +1340,7 @@
         "Personality": "David Hume",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Philosophy",
-        "Time Period": "1711\u20131776",
+        "Time Period": "1711–1776",
         "Difficulty": "Hard"
     },
     {
@@ -1372,7 +1348,7 @@
         "Personality": "Jean-Jacques Rousseau",
         "Modern Nation-State": "Switzerland / France",
         "Sphere": "Philosophy",
-        "Time Period": "1712\u20131778",
+        "Time Period": "1712–1778",
         "Difficulty": "Medium"
     },
     {
@@ -1380,7 +1356,7 @@
         "Personality": "Adam Smith",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Economics",
-        "Time Period": "1723\u20131790",
+        "Time Period": "1723–1790",
         "Difficulty": "Medium"
     },
     {
@@ -1388,7 +1364,7 @@
         "Personality": "Immanuel Kant",
         "Modern Nation-State": "Germany / Russia",
         "Sphere": "Philosophy",
-        "Time Period": "1724\u20131804",
+        "Time Period": "1724–1804",
         "Difficulty": "Medium"
     },
     {
@@ -1396,7 +1372,7 @@
         "Personality": "James Watt",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Technology",
-        "Time Period": "1736\u20131819",
+        "Time Period": "1736–1819",
         "Difficulty": "Medium"
     },
     {
@@ -1404,7 +1380,7 @@
         "Personality": "Antoine Lavoisier",
         "Modern Nation-State": "France",
         "Sphere": "Science",
-        "Time Period": "1743\u20131794",
+        "Time Period": "1743–1794",
         "Difficulty": "Hard"
     },
     {
@@ -1412,7 +1388,7 @@
         "Personality": "Mary Wollstonecraft",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Philosophy",
-        "Time Period": "1759\u20131797",
+        "Time Period": "1759–1797",
         "Difficulty": "Medium"
     },
     {
@@ -1420,7 +1396,7 @@
         "Personality": "Jane Austen",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Literature",
-        "Time Period": "1775\u20131817",
+        "Time Period": "1775–1817",
         "Difficulty": "Easy"
     },
     {
@@ -1428,7 +1404,7 @@
         "Personality": "Michael Faraday",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Science",
-        "Time Period": "1791\u20131867",
+        "Time Period": "1791–1867",
         "Difficulty": "Medium"
     },
     {
@@ -1436,7 +1412,7 @@
         "Personality": "Charles Babbage",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Technology",
-        "Time Period": "1791\u20131871",
+        "Time Period": "1791–1871",
         "Difficulty": "Hard"
     },
     {
@@ -1444,7 +1420,7 @@
         "Personality": "Sojourner Truth",
         "Modern Nation-State": "United States",
         "Sphere": "Activism",
-        "Time Period": "c. 1797\u20131883",
+        "Time Period": "c. 1797–1883",
         "Difficulty": "Medium"
     },
     {
@@ -1452,15 +1428,7 @@
         "Personality": "Giuseppe Garibaldi",
         "Modern Nation-State": "Italy",
         "Sphere": "Politics",
-        "Time Period": "1807\u20131882",
-        "Difficulty": "Medium"
-    },
-    {
-        "#": 283,
-        "Personality": "Gregor Mendel",
-        "Modern Nation-State": "Czechia",
-        "Sphere": "Science",
-        "Time Period": "1822\u20131884",
+        "Time Period": "1807–1882",
         "Difficulty": "Medium"
     },
     {
@@ -1468,7 +1436,7 @@
         "Personality": "Leo Tolstoy",
         "Modern Nation-State": "Russia",
         "Sphere": "Literature",
-        "Time Period": "1828\u20131910",
+        "Time Period": "1828–1910",
         "Difficulty": "Medium"
     },
     {
@@ -1476,7 +1444,7 @@
         "Personality": "Mark Twain",
         "Modern Nation-State": "United States",
         "Sphere": "Literature",
-        "Time Period": "1835\u20131910",
+        "Time Period": "1835–1910",
         "Difficulty": "Easy"
     },
     {
@@ -1484,7 +1452,7 @@
         "Personality": "Thomas Edison",
         "Modern Nation-State": "United States",
         "Sphere": "Technology",
-        "Time Period": "1847\u20131931",
+        "Time Period": "1847–1931",
         "Difficulty": "Easy"
     },
     {
@@ -1492,7 +1460,7 @@
         "Personality": "Sigmund Freud",
         "Modern Nation-State": "Austria / UK",
         "Sphere": "Medicine",
-        "Time Period": "1856\u20131939",
+        "Time Period": "1856–1939",
         "Difficulty": "Easy"
     },
     {
@@ -1500,7 +1468,7 @@
         "Personality": "Theodore Roosevelt",
         "Modern Nation-State": "United States",
         "Sphere": "Politics",
-        "Time Period": "1858\u20131919",
+        "Time Period": "1858–1919",
         "Difficulty": "Easy"
     },
     {
@@ -1508,7 +1476,7 @@
         "Personality": "Henry Ford",
         "Modern Nation-State": "United States",
         "Sphere": "Technology",
-        "Time Period": "1863\u20131947",
+        "Time Period": "1863–1947",
         "Difficulty": "Easy"
     },
     {
@@ -1516,7 +1484,7 @@
         "Personality": "Orville Wright",
         "Modern Nation-State": "United States",
         "Sphere": "Technology",
-        "Time Period": "1871\u20131948",
+        "Time Period": "1871–1948",
         "Difficulty": "Easy"
     },
     {
@@ -1524,7 +1492,7 @@
         "Personality": "Winston Churchill",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Politics",
-        "Time Period": "1874\u20131965",
+        "Time Period": "1874–1965",
         "Difficulty": "Easy"
     },
     {
@@ -1532,7 +1500,7 @@
         "Personality": "Franklin D. Roosevelt",
         "Modern Nation-State": "United States",
         "Sphere": "Politics",
-        "Time Period": "1882\u20131945",
+        "Time Period": "1882–1945",
         "Difficulty": "Easy"
     },
     {
@@ -1540,7 +1508,7 @@
         "Personality": "Ho Chi Minh",
         "Modern Nation-State": "Vietnam",
         "Sphere": "Politics",
-        "Time Period": "1890\u20131969",
+        "Time Period": "1890–1969",
         "Difficulty": "Medium"
     },
     {
@@ -1548,7 +1516,7 @@
         "Personality": "Golda Meir",
         "Modern Nation-State": "Israel / Ukraine",
         "Sphere": "Politics",
-        "Time Period": "1898\u20131978",
+        "Time Period": "1898–1978",
         "Difficulty": "Medium"
     },
     {
@@ -1556,7 +1524,7 @@
         "Personality": "Walt Disney",
         "Modern Nation-State": "United States",
         "Sphere": "Media",
-        "Time Period": "1901\u20131966",
+        "Time Period": "1901–1966",
         "Difficulty": "Easy"
     },
     {
@@ -1564,7 +1532,7 @@
         "Personality": "Rosa Parks",
         "Modern Nation-State": "United States",
         "Sphere": "Activism",
-        "Time Period": "1913\u20132005",
+        "Time Period": "1913–2005",
         "Difficulty": "Easy"
     },
     {
@@ -1572,15 +1540,15 @@
         "Personality": "Margaret Thatcher",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Politics",
-        "Time Period": "1925\u20132013",
+        "Time Period": "1925–2013",
         "Difficulty": "Easy"
     },
     {
         "#": 298,
-        "Personality": "Gabriel Garc\u00eda M\u00e1rquez",
+        "Personality": "Gabriel García Márquez",
         "Modern Nation-State": "Colombia",
         "Sphere": "Literature",
-        "Time Period": "1927\u20132014",
+        "Time Period": "1927–2014",
         "Difficulty": "Medium"
     },
     {
@@ -1588,15 +1556,7 @@
         "Personality": "Neil Armstrong",
         "Modern Nation-State": "United States",
         "Sphere": "Exploration",
-        "Time Period": "1930\u20132012",
-        "Difficulty": "Easy"
-    },
-    {
-        "#": 300,
-        "Personality": "Tenzin Gyatso (14th Dalai Lama)",
-        "Modern Nation-State": "China (Tibet) / India",
-        "Sphere": "Religion",
-        "Time Period": "1935\u2013Present",
+        "Time Period": "1930–2012",
         "Difficulty": "Easy"
     },
     {
@@ -1604,7 +1564,7 @@
         "Personality": "Tiglath-Pileser III",
         "Modern Nation-State": "Iraq",
         "Sphere": "Politics",
-        "Time Period": "745\u2013727 BCE",
+        "Time Period": "745–727 BCE",
         "Difficulty": "Hard"
     },
     {
@@ -1612,7 +1572,7 @@
         "Personality": "Josiah",
         "Modern Nation-State": "Israel",
         "Sphere": "Politics",
-        "Time Period": "c. 649\u2013609 BCE",
+        "Time Period": "c. 649–609 BCE",
         "Difficulty": "Hard"
     },
     {
@@ -1620,7 +1580,7 @@
         "Personality": "Anaximander",
         "Modern Nation-State": "Turkey",
         "Sphere": "Science",
-        "Time Period": "c. 610\u2013546 BCE",
+        "Time Period": "c. 610–546 BCE",
         "Difficulty": "Hard"
     },
     {
@@ -1628,7 +1588,7 @@
         "Personality": "Aeschylus",
         "Modern Nation-State": "Greece",
         "Sphere": "Literature",
-        "Time Period": "c. 525\u2013456 BCE",
+        "Time Period": "c. 525–456 BCE",
         "Difficulty": "Medium"
     },
     {
@@ -1636,7 +1596,7 @@
         "Personality": "Pericles",
         "Modern Nation-State": "Greece",
         "Sphere": "Politics",
-        "Time Period": "c. 495\u2013429 BCE",
+        "Time Period": "c. 495–429 BCE",
         "Difficulty": "Medium"
     },
     {
@@ -1644,7 +1604,7 @@
         "Personality": "Thucydides",
         "Modern Nation-State": "Greece",
         "Sphere": "Literature",
-        "Time Period": "c. 460\u2013400 BCE",
+        "Time Period": "c. 460–400 BCE",
         "Difficulty": "Hard"
     },
     {
@@ -1652,7 +1612,7 @@
         "Personality": "Democritus",
         "Modern Nation-State": "Greece",
         "Sphere": "Science",
-        "Time Period": "c. 460\u2013370 BCE",
+        "Time Period": "c. 460–370 BCE",
         "Difficulty": "Hard"
     },
     {
@@ -1660,7 +1620,7 @@
         "Personality": "Xenophon",
         "Modern Nation-State": "Greece",
         "Sphere": "Military/Lit",
-        "Time Period": "c. 430\u2013354 BCE",
+        "Time Period": "c. 430–354 BCE",
         "Difficulty": "Hard"
     },
     {
@@ -1668,7 +1628,7 @@
         "Personality": "Mencius",
         "Modern Nation-State": "China",
         "Sphere": "Philosophy",
-        "Time Period": "372\u2013289 BCE",
+        "Time Period": "372–289 BCE",
         "Difficulty": "Medium"
     },
     {
@@ -1676,7 +1636,7 @@
         "Personality": "Chandragupta Maurya",
         "Modern Nation-State": "India",
         "Sphere": "Politics",
-        "Time Period": "c. 340\u2013297 BCE",
+        "Time Period": "c. 340–297 BCE",
         "Difficulty": "Medium"
     },
     {
@@ -1684,23 +1644,15 @@
         "Personality": "Epicurus",
         "Modern Nation-State": "Greece",
         "Sphere": "Philosophy",
-        "Time Period": "341\u2013270 BCE",
+        "Time Period": "341–270 BCE",
         "Difficulty": "Medium"
-    },
-    {
-        "#": 312,
-        "Personality": "Eratosthenes",
-        "Modern Nation-State": "Libya / Egypt",
-        "Sphere": "Science",
-        "Time Period": "276\u2013194 BCE",
-        "Difficulty": "Hard"
     },
     {
         "#": 313,
         "Personality": "Wu of Han",
         "Modern Nation-State": "China",
         "Sphere": "Politics",
-        "Time Period": "156\u201387 BCE",
+        "Time Period": "156–87 BCE",
         "Difficulty": "Medium"
     },
     {
@@ -1708,7 +1660,7 @@
         "Personality": "Sima Qian",
         "Modern Nation-State": "China",
         "Sphere": "Literature",
-        "Time Period": "c. 145\u201386 BCE",
+        "Time Period": "c. 145–86 BCE",
         "Difficulty": "Hard"
     },
     {
@@ -1716,7 +1668,7 @@
         "Personality": "Herod the Great",
         "Modern Nation-State": "Israel / Palestine",
         "Sphere": "Politics",
-        "Time Period": "73\u20134 BCE",
+        "Time Period": "73–4 BCE",
         "Difficulty": "Medium"
     },
     {
@@ -1724,7 +1676,7 @@
         "Personality": "Ovid",
         "Modern Nation-State": "Italy",
         "Sphere": "Literature",
-        "Time Period": "43 BCE \u2013 17 CE",
+        "Time Period": "43 BCE – 17 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1732,7 +1684,7 @@
         "Personality": "Philo of Alexandria",
         "Modern Nation-State": "Egypt",
         "Sphere": "Philosophy",
-        "Time Period": "20 BCE \u2013 50 CE",
+        "Time Period": "20 BCE – 50 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1740,7 +1692,7 @@
         "Personality": "Paul the Apostle",
         "Modern Nation-State": "Turkey / Italy",
         "Sphere": "Religion",
-        "Time Period": "c. 5\u201367 CE",
+        "Time Period": "c. 5–67 CE",
         "Difficulty": "Easy"
     },
     {
@@ -1748,7 +1700,7 @@
         "Personality": "Josephus",
         "Modern Nation-State": "Israel / Italy",
         "Sphere": "Literature",
-        "Time Period": "37\u2013100 CE",
+        "Time Period": "37–100 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1756,7 +1708,7 @@
         "Personality": "Tacitus",
         "Modern Nation-State": "Italy",
         "Sphere": "Literature",
-        "Time Period": "c. 56\u2013120 CE",
+        "Time Period": "c. 56–120 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1764,7 +1716,7 @@
         "Personality": "Plutarch",
         "Modern Nation-State": "Greece",
         "Sphere": "Literature",
-        "Time Period": "c. 46\u2013120 CE",
+        "Time Period": "c. 46–120 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1772,15 +1724,7 @@
         "Personality": "Lucian",
         "Modern Nation-State": "Syria",
         "Sphere": "Literature",
-        "Time Period": "c. 125\u2013180 CE",
-        "Difficulty": "Hard"
-    },
-    {
-        "#": 323,
-        "Personality": "Septimius Severus",
-        "Modern Nation-State": "Libya / Italy",
-        "Sphere": "Politics",
-        "Time Period": "145\u2013211 CE",
+        "Time Period": "c. 125–180 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1788,7 +1732,7 @@
         "Personality": "Ardashir I",
         "Modern Nation-State": "Iran",
         "Sphere": "Politics",
-        "Time Period": "c. 180\u2013242 CE",
+        "Time Period": "c. 180–242 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1796,7 +1740,7 @@
         "Personality": "Mani",
         "Modern Nation-State": "Iraq / Iran",
         "Sphere": "Religion",
-        "Time Period": "216\u2013274 CE",
+        "Time Period": "216–274 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1804,7 +1748,7 @@
         "Personality": "Diocletian",
         "Modern Nation-State": "Croatia / Italy",
         "Sphere": "Politics",
-        "Time Period": "244\u2013311 CE",
+        "Time Period": "244–311 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1812,7 +1756,7 @@
         "Personality": "Athanasius",
         "Modern Nation-State": "Egypt",
         "Sphere": "Religion",
-        "Time Period": "c. 296\u2013373 CE",
+        "Time Period": "c. 296–373 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1820,7 +1764,7 @@
         "Personality": "Julian the Apostate",
         "Modern Nation-State": "Turkey",
         "Sphere": "Politics",
-        "Time Period": "331\u2013363 CE",
+        "Time Period": "331–363 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1828,7 +1772,7 @@
         "Personality": "Theodosius I",
         "Modern Nation-State": "Spain / Turkey",
         "Sphere": "Politics",
-        "Time Period": "347\u2013395 CE",
+        "Time Period": "347–395 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1836,7 +1780,7 @@
         "Personality": "Hypatia",
         "Modern Nation-State": "Egypt",
         "Sphere": "Math",
-        "Time Period": "c. 350\u2013415 CE",
+        "Time Period": "c. 350–415 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1844,7 +1788,7 @@
         "Personality": "Genseric",
         "Modern Nation-State": "Germany / Tunisia",
         "Sphere": "Military",
-        "Time Period": "c. 389\u2013477 CE",
+        "Time Period": "c. 389–477 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1852,7 +1796,7 @@
         "Personality": "Theodoric the Great",
         "Modern Nation-State": "Italy",
         "Sphere": "Politics",
-        "Time Period": "454\u2013526 CE",
+        "Time Period": "454–526 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1860,15 +1804,7 @@
         "Personality": "Belisarius",
         "Modern Nation-State": "Turkey / Italy",
         "Sphere": "Military",
-        "Time Period": "c. 500\u2013565 CE",
-        "Difficulty": "Hard"
-    },
-    {
-        "#": 334,
-        "Personality": "Songtsen Gampo",
-        "Modern Nation-State": "China (Tibet)",
-        "Sphere": "Politics",
-        "Time Period": "c. 605\u2013650 CE",
+        "Time Period": "c. 500–565 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1876,7 +1812,7 @@
         "Personality": "Ali ibn Abi Talib",
         "Modern Nation-State": "Saudi Arabia / Iraq",
         "Sphere": "Religion/Pol",
-        "Time Period": "601\u2013661 CE",
+        "Time Period": "601–661 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1884,7 +1820,7 @@
         "Personality": "Muawiya I",
         "Modern Nation-State": "Saudi Arabia / Syria",
         "Sphere": "Politics",
-        "Time Period": "c. 602\u2013680 CE",
+        "Time Period": "c. 602–680 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1892,7 +1828,7 @@
         "Personality": "Bede",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Literature",
-        "Time Period": "c. 672\u2013735 CE",
+        "Time Period": "c. 672–735 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1900,7 +1836,7 @@
         "Personality": "Charles Martel",
         "Modern Nation-State": "France",
         "Sphere": "Military",
-        "Time Period": "c. 688\u2013741 CE",
+        "Time Period": "c. 688–741 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1908,23 +1844,15 @@
         "Personality": "Du Fu",
         "Modern Nation-State": "China",
         "Sphere": "Literature",
-        "Time Period": "712\u2013770 CE",
+        "Time Period": "712–770 CE",
         "Difficulty": "Medium"
-    },
-    {
-        "#": 340,
-        "Personality": "Alcuin",
-        "Modern Nation-State": "UK / France",
-        "Sphere": "Philosophy",
-        "Time Period": "c. 735\u2013804 CE",
-        "Difficulty": "Hard"
     },
     {
         "#": 341,
         "Personality": "Irene of Athens",
         "Modern Nation-State": "Greece",
         "Sphere": "Politics",
-        "Time Period": "c. 752\u2013803 CE",
+        "Time Period": "c. 752–803 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1932,7 +1860,7 @@
         "Personality": "Al-Jahiz",
         "Modern Nation-State": "Iraq",
         "Sphere": "Literature",
-        "Time Period": "776\u2013868 CE",
+        "Time Period": "776–868 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1940,7 +1868,7 @@
         "Personality": "Rurik",
         "Modern Nation-State": "Russia / Ukraine",
         "Sphere": "Politics",
-        "Time Period": "c. 830\u2013879 CE",
+        "Time Period": "c. 830–879 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1948,15 +1876,7 @@
         "Personality": "Basil I",
         "Modern Nation-State": "Turkey",
         "Sphere": "Politics",
-        "Time Period": "811\u2013886 CE",
-        "Difficulty": "Hard"
-    },
-    {
-        "#": 345,
-        "Personality": "Simeon I the Great",
-        "Modern Nation-State": "Bulgaria",
-        "Sphere": "Politics",
-        "Time Period": "c. 864\u2013927 CE",
+        "Time Period": "811–886 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1964,7 +1884,7 @@
         "Personality": "Otto the Great",
         "Modern Nation-State": "Germany",
         "Sphere": "Politics",
-        "Time Period": "912\u2013973 CE",
+        "Time Period": "912–973 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1972,7 +1892,7 @@
         "Personality": "Avicenna",
         "Modern Nation-State": "Uzbekistan / Iran",
         "Sphere": "Science",
-        "Time Period": "980\u20131037 CE",
+        "Time Period": "980–1037 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1980,7 +1900,7 @@
         "Personality": "Anselm of Canterbury",
         "Modern Nation-State": "Italy / UK",
         "Sphere": "Philosophy",
-        "Time Period": "c. 1033\u20131109 CE",
+        "Time Period": "c. 1033–1109 CE",
         "Difficulty": "Hard"
     },
     {
@@ -1988,7 +1908,7 @@
         "Personality": "Omar Khayyam",
         "Modern Nation-State": "Iran",
         "Sphere": "Math / Poetry",
-        "Time Period": "1048\u20131131 CE",
+        "Time Period": "1048–1131 CE",
         "Difficulty": "Medium"
     },
     {
@@ -1996,7 +1916,7 @@
         "Personality": "Heloise",
         "Modern Nation-State": "France",
         "Sphere": "Philosophy",
-        "Time Period": "c. 1100\u20131163 CE",
+        "Time Period": "c. 1100–1163 CE",
         "Difficulty": "Hard"
     },
     {
@@ -2004,7 +1924,7 @@
         "Personality": "Averroes",
         "Modern Nation-State": "Spain / Morocco",
         "Sphere": "Philosophy",
-        "Time Period": "1126\u20131198 CE",
+        "Time Period": "1126–1198 CE",
         "Difficulty": "Medium"
     },
     {
@@ -2012,7 +1932,7 @@
         "Personality": "Minamoto no Yoritomo",
         "Modern Nation-State": "Japan",
         "Sphere": "Politics",
-        "Time Period": "1147\u20131199 CE",
+        "Time Period": "1147–1199 CE",
         "Difficulty": "Hard"
     },
     {
@@ -2020,7 +1940,7 @@
         "Personality": "Sundiata Keita",
         "Modern Nation-State": "Mali",
         "Sphere": "Politics",
-        "Time Period": "c. 1190\u20131255 CE",
+        "Time Period": "c. 1190–1255 CE",
         "Difficulty": "Hard"
     },
     {
@@ -2028,7 +1948,7 @@
         "Personality": "Roger Bacon",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Science",
-        "Time Period": "c. 1214\u20131292 CE",
+        "Time Period": "c. 1214–1292 CE",
         "Difficulty": "Hard"
     },
     {
@@ -2036,7 +1956,7 @@
         "Personality": "Jalal ad-Din Rumi",
         "Modern Nation-State": "Afghanistan / Turkey",
         "Sphere": "Poetry",
-        "Time Period": "1207\u20131273 CE",
+        "Time Period": "1207–1273 CE",
         "Difficulty": "Easy"
     },
     {
@@ -2044,23 +1964,15 @@
         "Personality": "Giotto",
         "Modern Nation-State": "Italy",
         "Sphere": "Art",
-        "Time Period": "1267\u20131337",
+        "Time Period": "1267–1337",
         "Difficulty": "Medium"
-    },
-    {
-        "#": 357,
-        "Personality": "William of Ockham",
-        "Modern Nation-State": "UK / Germany",
-        "Sphere": "Philosophy",
-        "Time Period": "c. 1287\u20131347",
-        "Difficulty": "Hard"
     },
     {
         "#": 358,
         "Personality": "Timur (Tamerlane)",
         "Modern Nation-State": "Uzbekistan",
         "Sphere": "Military",
-        "Time Period": "1336\u20131405",
+        "Time Period": "1336–1405",
         "Difficulty": "Medium"
     },
     {
@@ -2068,7 +1980,7 @@
         "Personality": "Filippo Brunelleschi",
         "Modern Nation-State": "Italy",
         "Sphere": "Art/Arch",
-        "Time Period": "1377\u20131446",
+        "Time Period": "1377–1446",
         "Difficulty": "Medium"
     },
     {
@@ -2076,7 +1988,7 @@
         "Personality": "Donatello",
         "Modern Nation-State": "Italy",
         "Sphere": "Art",
-        "Time Period": "c. 1386\u20131466",
+        "Time Period": "c. 1386–1466",
         "Difficulty": "Medium"
     },
     {
@@ -2084,7 +1996,7 @@
         "Personality": "Johannes Gutenberg",
         "Modern Nation-State": "Germany",
         "Sphere": "Technology",
-        "Time Period": "c. 1400\u20131468",
+        "Time Period": "c. 1400–1468",
         "Difficulty": "Easy"
     },
     {
@@ -2092,15 +2004,15 @@
         "Personality": "Sandro Botticelli",
         "Modern Nation-State": "Italy",
         "Sphere": "Art",
-        "Time Period": "c. 1445\u20131510",
+        "Time Period": "c. 1445–1510",
         "Difficulty": "Medium"
     },
     {
         "#": 363,
-        "Personality": "Albrecht D\u00fcrer",
+        "Personality": "Albrecht Dürer",
         "Modern Nation-State": "Germany",
         "Sphere": "Art",
-        "Time Period": "1471\u20131528",
+        "Time Period": "1471–1528",
         "Difficulty": "Medium"
     },
     {
@@ -2108,7 +2020,7 @@
         "Personality": "Michelangelo",
         "Modern Nation-State": "Italy",
         "Sphere": "Art",
-        "Time Period": "1475\u20131564",
+        "Time Period": "1475–1564",
         "Difficulty": "Easy"
     },
     {
@@ -2116,7 +2028,7 @@
         "Personality": "Raphael",
         "Modern Nation-State": "Italy",
         "Sphere": "Art",
-        "Time Period": "1483\u20131520",
+        "Time Period": "1483–1520",
         "Difficulty": "Medium"
     },
     {
@@ -2124,7 +2036,7 @@
         "Personality": "Titian",
         "Modern Nation-State": "Italy",
         "Sphere": "Art",
-        "Time Period": "c. 1488\u20131576",
+        "Time Period": "c. 1488–1576",
         "Difficulty": "Medium"
     },
     {
@@ -2132,7 +2044,7 @@
         "Personality": "Catherine de' Medici",
         "Modern Nation-State": "Italy / France",
         "Sphere": "Politics",
-        "Time Period": "1519\u20131589",
+        "Time Period": "1519–1589",
         "Difficulty": "Medium"
     },
     {
@@ -2140,7 +2052,7 @@
         "Personality": "Miguel de Cervantes",
         "Modern Nation-State": "Spain",
         "Sphere": "Literature",
-        "Time Period": "1547\u20131616",
+        "Time Period": "1547–1616",
         "Difficulty": "Easy"
     },
     {
@@ -2148,7 +2060,7 @@
         "Personality": "Giordano Bruno",
         "Modern Nation-State": "Italy",
         "Sphere": "Philosophy",
-        "Time Period": "1548\u20131600",
+        "Time Period": "1548–1600",
         "Difficulty": "Hard"
     },
     {
@@ -2156,7 +2068,7 @@
         "Personality": "Lope de Vega",
         "Modern Nation-State": "Spain",
         "Sphere": "Literature",
-        "Time Period": "1562\u20131635",
+        "Time Period": "1562–1635",
         "Difficulty": "Hard"
     },
     {
@@ -2164,7 +2076,7 @@
         "Personality": "Claudio Monteverdi",
         "Modern Nation-State": "Italy",
         "Sphere": "Music",
-        "Time Period": "1567\u20131643",
+        "Time Period": "1567–1643",
         "Difficulty": "Hard"
     },
     {
@@ -2172,15 +2084,15 @@
         "Personality": "Artemisia Gentileschi",
         "Modern Nation-State": "Italy",
         "Sphere": "Art",
-        "Time Period": "1593\u20131653",
+        "Time Period": "1593–1653",
         "Difficulty": "Medium"
     },
     {
         "#": 373,
-        "Personality": "Vel\u00e1zquez",
+        "Personality": "Velázquez",
         "Modern Nation-State": "Spain",
         "Sphere": "Art",
-        "Time Period": "1599\u20131660",
+        "Time Period": "1599–1660",
         "Difficulty": "Medium"
     },
     {
@@ -2188,7 +2100,7 @@
         "Personality": "Blaise Pascal",
         "Modern Nation-State": "France",
         "Sphere": "Science",
-        "Time Period": "1623\u20131662",
+        "Time Period": "1623–1662",
         "Difficulty": "Medium"
     },
     {
@@ -2196,7 +2108,7 @@
         "Personality": "Christopher Wren",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Arch",
-        "Time Period": "1632\u20131723",
+        "Time Period": "1632–1723",
         "Difficulty": "Hard"
     },
     {
@@ -2204,7 +2116,7 @@
         "Personality": "Jean Racine",
         "Modern Nation-State": "France",
         "Sphere": "Literature",
-        "Time Period": "1639\u20131699",
+        "Time Period": "1639–1699",
         "Difficulty": "Hard"
     },
     {
@@ -2212,7 +2124,7 @@
         "Personality": "Antonio Vivaldi",
         "Modern Nation-State": "Italy",
         "Sphere": "Music",
-        "Time Period": "1678\u20131741",
+        "Time Period": "1678–1741",
         "Difficulty": "Easy"
     },
     {
@@ -2220,7 +2132,7 @@
         "Personality": "Montesquieu",
         "Modern Nation-State": "France",
         "Sphere": "Philosophy",
-        "Time Period": "1689\u20131755",
+        "Time Period": "1689–1755",
         "Difficulty": "Medium"
     },
     {
@@ -2228,7 +2140,7 @@
         "Personality": "Linnaeus",
         "Modern Nation-State": "Sweden",
         "Sphere": "Science",
-        "Time Period": "1707\u20131778",
+        "Time Period": "1707–1778",
         "Difficulty": "Medium"
     },
     {
@@ -2236,7 +2148,7 @@
         "Personality": "Denis Diderot",
         "Modern Nation-State": "France",
         "Sphere": "Literature",
-        "Time Period": "1713\u20131784",
+        "Time Period": "1713–1784",
         "Difficulty": "Hard"
     },
     {
@@ -2244,7 +2156,7 @@
         "Personality": "Frederick the Great",
         "Modern Nation-State": "Germany",
         "Sphere": "Politics",
-        "Time Period": "1712\u20131786",
+        "Time Period": "1712–1786",
         "Difficulty": "Medium"
     },
     {
@@ -2252,7 +2164,7 @@
         "Personality": "James Cook",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Exploration",
-        "Time Period": "1728\u20131779",
+        "Time Period": "1728–1779",
         "Difficulty": "Medium"
     },
     {
@@ -2260,15 +2172,7 @@
         "Personality": "Joseph Haydn",
         "Modern Nation-State": "Austria",
         "Sphere": "Music",
-        "Time Period": "1732\u20131809",
-        "Difficulty": "Medium"
-    },
-    {
-        "#": 384,
-        "Personality": "Thomas Paine",
-        "Modern Nation-State": "UK / USA",
-        "Sphere": "Politics",
-        "Time Period": "1737\u20131809",
+        "Time Period": "1732–1809",
         "Difficulty": "Medium"
     },
     {
@@ -2276,7 +2180,7 @@
         "Personality": "Alessandro Volta",
         "Modern Nation-State": "Italy",
         "Sphere": "Science",
-        "Time Period": "1745\u20131827",
+        "Time Period": "1745–1827",
         "Difficulty": "Medium"
     },
     {
@@ -2284,7 +2188,7 @@
         "Personality": "Jeremy Bentham",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Philosophy",
-        "Time Period": "1748\u20131832",
+        "Time Period": "1748–1832",
         "Difficulty": "Hard"
     },
     {
@@ -2292,7 +2196,7 @@
         "Personality": "Edward Jenner",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Medicine",
-        "Time Period": "1749\u20131823",
+        "Time Period": "1749–1823",
         "Difficulty": "Medium"
     },
     {
@@ -2300,7 +2204,7 @@
         "Personality": "John Dalton",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Science",
-        "Time Period": "1766\u20131844",
+        "Time Period": "1766–1844",
         "Difficulty": "Hard"
     },
     {
@@ -2308,7 +2212,7 @@
         "Personality": "Hegel",
         "Modern Nation-State": "Germany",
         "Sphere": "Philosophy",
-        "Time Period": "1770\u20131831",
+        "Time Period": "1770–1831",
         "Difficulty": "Medium"
     },
     {
@@ -2316,7 +2220,7 @@
         "Personality": "Stendhal",
         "Modern Nation-State": "France",
         "Sphere": "Literature",
-        "Time Period": "1783\u20131842",
+        "Time Period": "1783–1842",
         "Difficulty": "Hard"
     },
     {
@@ -2324,7 +2228,7 @@
         "Personality": "Charles Lyell",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Science",
-        "Time Period": "1797\u20131875",
+        "Time Period": "1797–1875",
         "Difficulty": "Hard"
     },
     {
@@ -2332,7 +2236,7 @@
         "Personality": "John Stuart Mill",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Philosophy",
-        "Time Period": "1806\u20131873",
+        "Time Period": "1806–1873",
         "Difficulty": "Medium"
     },
     {
@@ -2340,7 +2244,7 @@
         "Personality": "Richard Wagner",
         "Modern Nation-State": "Germany",
         "Sphere": "Music",
-        "Time Period": "1813\u20131883",
+        "Time Period": "1813–1883",
         "Difficulty": "Medium"
     },
     {
@@ -2348,7 +2252,7 @@
         "Personality": "George Eliot",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Literature",
-        "Time Period": "1819\u20131880",
+        "Time Period": "1819–1880",
         "Difficulty": "Medium"
     },
     {
@@ -2356,7 +2260,7 @@
         "Personality": "Joseph Lister",
         "Modern Nation-State": "United Kingdom",
         "Sphere": "Medicine",
-        "Time Period": "1827\u20131912",
+        "Time Period": "1827–1912",
         "Difficulty": "Hard"
     },
     {
@@ -2364,7 +2268,7 @@
         "Personality": "Johannes Brahms",
         "Modern Nation-State": "Germany",
         "Sphere": "Music",
-        "Time Period": "1833\u20131897",
+        "Time Period": "1833–1897",
         "Difficulty": "Medium"
     },
     {
@@ -2372,7 +2276,7 @@
         "Personality": "Friedrich Nietzsche",
         "Modern Nation-State": "Germany",
         "Sphere": "Philosophy",
-        "Time Period": "1844\u20131900",
+        "Time Period": "1844–1900",
         "Difficulty": "Easy"
     },
     {
@@ -2380,7 +2284,7 @@
         "Personality": "Max Weber",
         "Modern Nation-State": "Germany",
         "Sphere": "Science/Soc",
-        "Time Period": "1864\u20131920",
+        "Time Period": "1864–1920",
         "Difficulty": "Hard"
     },
     {
@@ -2388,7 +2292,7 @@
         "Personality": "Marcel Proust",
         "Modern Nation-State": "France",
         "Sphere": "Literature",
-        "Time Period": "1871\u20131922",
+        "Time Period": "1871–1922",
         "Difficulty": "Medium"
     },
     {
@@ -2396,7 +2300,7 @@
         "Personality": "Elon Musk",
         "Modern Nation-State": "South Africa / USA",
         "Sphere": "Technology",
-        "Time Period": "1971\u2013Present",
+        "Time Period": "1971–Present",
         "Difficulty": "Easy"
     }
 ]
